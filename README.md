@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Craig</h1>
+
+<img src="https://giphy.com/embed/1lvotGQwhzi6O0gQtV" width="480"/>
 <h3 align="center">An all round developer from Ireland</h3>
 
 
