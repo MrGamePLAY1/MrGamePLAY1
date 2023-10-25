@@ -12,7 +12,7 @@
 
 - 📫 How to reach me on [Discord](discordapp.com/users/297460255724535808) <a href="https://discord.gg/discordapp.com/users/297460255724535808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/297460255724535808" height="30" width="40" /></a>
 
-- 📄 Checkout my [resume!](https://drive.google.com/file/d/1bJZ7NmNwU8Em_vtGqaB95tpZqE_N8xFJ/view?usp=sharing)
+- 📄 Checkout my [resume!](https://drive.google.com/file/d/1zpQmBAbH-0wgFvyl5VngXGF1Ll_FeChE/view?usp=sharing)
 
  
 
