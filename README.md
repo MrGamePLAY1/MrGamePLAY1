@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Craig</h1>
-<h3 align="center">I am an all-around developer from Ireland, Dublin. I am currently working with Python, Node.js, and PHP 🛠️.</h3>
+<h3 align="center">I am an all-around developer from Ireland, Dublin. I am currently working with Python, Node.js, and PHP.</h3>
 <br/>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300px"/>
 <br/>
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me on [Discord](discordapp.com/users/297460255724535808) <a href="https://discord.gg/discordapp.com/users/297460255724535808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/297460255724535808" height="30" width="40" /></a>
 
-- 📄 Checkout my [resume!](https://drive.google.com/file/d/1gNZqTJJ0yfOn86sBEu9I-gvlftAu1rcd/view?usp=drive_link)
+- 📄 Checkout my [resume!](https://drive.google.com/file/d/1bJZ7NmNwU8Em_vtGqaB95tpZqE_N8xFJ/view?usp=sharing)
 
  
 
