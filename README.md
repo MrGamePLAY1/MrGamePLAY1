@@ -43,6 +43,5 @@
 
 ### 📊 Github Stats
 ![MrGamePLAY1's Stats](https://github-readme-stats.vercel.app/api?username=MrGamePLAY1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgameplay1&show_icons=true&hide_border=true&locale=en" alt="mrgameplay1" /></p>
+![MrGamePLAY1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGamePLAY1&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
