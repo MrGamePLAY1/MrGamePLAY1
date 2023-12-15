@@ -1,17 +1,17 @@
-# Hi 👋, I'm Craig
-
-## About Me
-I am an all-around developer from Ireland, Dublin. Currently working with Python, Node.js, and PHP.
-
-![GIF](https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif)
+<h1 align="center">Hi 👋, I'm Craig</h1>
+<h3 align="center">I am an all-around developer from Ireland, Dublin. I am currently working with Python, Node.js, and PHP.</h3>
+<br/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300px"/>
+<br/>
 
 - 🔭 I’m currently working on **my website for my business 💻**
+
 - 🌱 I’m currently learning **Node.js** <img alt="Node.js" height ="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MrGamePLAY1?tab=repositories)
-- 📫 How to reach me on [Discord](discordapp.com/users/297460255724535808) 
-   <a href="https://discord.gg/discordapp.com/users/297460255724535808" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/297460255724535808" height="30" width="40" />
-   </a>
+
+- 📫 How to reach me on [Discord](discordapp.com/users/297460255724535808) <a href="https://discord.gg/discordapp.com/users/297460255724535808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/297460255724535808" height="30" width="40" /></a>
+
 - 📄 Checkout my [resume!](https://drive.google.com/file/d/1zpQmBAbH-0wgFvyl5VngXGF1Ll_FeChE/view?usp=sharing)
 
  
