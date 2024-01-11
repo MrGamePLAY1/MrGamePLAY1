@@ -4,6 +4,13 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300px"/>
 <br/>
 
+
+![Currently](https://img.shields.io/badge/currently-Online-brightgreen?style=flat&logo=github)
+![Coding](https://img.shields.io/badge/coding-Sheehy%20Details-blue?style=flat&logo=Visual%20Studio%20Code)
+![Learning](https://img.shields.io/badge/Learning-React%20Native-purple?style=flat&logo=udemy&labelColor=%23FFFFFF)
+
+
+
 - 🔭 I’m currently working on **my website for my business 💻**
 
 - 🌱 I’m currently learning **React Native**
