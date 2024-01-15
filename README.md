@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Craig</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+<h1 align="center">Hi I'm Craig <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"></h1> 
 <h3 align="center">I am an all-around developer from Ireland, Dublin. I am currently working with Python, Node.js, and PHP.</h3>
 <br/>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="300px"/>
